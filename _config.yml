@@ -1,0 +1,29 @@
+title: xiaotian
+author: xiaotian
+subtitle: 一个独立开发者
+
+google_analytics:
+
+url:
+baseurl:
+
+footer_url:
+footer_text: "Copyright © 2025 xiaotian"
+
+profile-picture:
+favicon_location:
+
+permalink: /:categories/:year-:month-:day-:title/
+sass:
+    style: compressed
+    sass_dir: css
+
+navbar:
+ - name: "blog"
+   link: "/blog"
+ - name: "github"
+   link: "https://github.com/xiaotian2333"
+
+markdown: kramdown
+kramdown:
+  math_engine: katex
