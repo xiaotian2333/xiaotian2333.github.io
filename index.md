@@ -2,8 +2,6 @@
 layout: default
 ---
 
-<img class="profile-picture" src="{{site.baseurl}}/{{site.profile-picture}}">
-
 我是小天，一个QQ机器人的爱好者
 
 我是一个独立开发者，目前专注于开发QQ机器人，并致力于将AI技术应用于QQ机器人中
